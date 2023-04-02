@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration:none;
+}
+
+.services-heading {
+    text-align: center !important;
+    align-items: center !important;
+}
+
+.carousel-caption.d-none.d-md-block {
+    color: black;
+}
+.clients{
+    text-align: center !important;
+    align-items: center !important;
+}
